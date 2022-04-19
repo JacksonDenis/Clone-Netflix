@@ -9,6 +9,11 @@
         width: 300px;
     }
 
+    .box-filme {
+        margin-top: 25px;
+       
+    }
+
 }
 
 @media screen and (min-width:1000px){
